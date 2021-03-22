@@ -1,0 +1,12 @@
+This is Atari ST / Motorola 68000 assembly that I wrote in 1991
+It draws interactive Mandelbrot sets, and it compiles under 500 bytes.
+
+It was initially part of the Phaleon Gigademo, probably one of the biggest megademo of all times.
+Someone even posted a video of it here: https://www.youtube.com/watch?v=Zou2j1xU9iA (thanks!)
+
+Note: the version I post here has a ton of comments, in French, because I submitted it as an article for a printed magazine I forgot all about (I think it never was published). The routine in the demo was a bit different, it included some scroller and animation around it, code to save the demo into the boot sector of floppy disks, and a syncronized raster routine to switch the palette smoothly between the images (as seen on the youtube video).
+I think I lost the full source code in a serie of harddrive crashes in the beginning of this century :o
+
+At the time our group was named Chaotic Motion, and later on Albedo 0.12 when we merged with Fashion. We coded a lot and were working on early soundtract/fullscreens but we released very few demos in fact. We naively worked way too much on our own megademo that we never released :D
+
+jeremie.francois@gmail.com / jeremie@tecrd.com / MoonCactus ;)
